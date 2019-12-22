@@ -1,2 +1,2 @@
 # project-1
-blog post data visualization
+A data visualization project for my portfolio/blog
